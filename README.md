@@ -1,2 +1,2 @@
 # ML From Scratch
-This repository conatins my implementations of Machine Learning algorithms.
+This repository contains my implementations of Machine Learning algorithms.
